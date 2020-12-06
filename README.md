@@ -1,15 +1,20 @@
-# NextJS & Redux Toolkit
+# NextJS, Redux Toolkit, styled-components 🚀
 
-This is a boilerplate to get you up and running with NextJS and Redux quickly. It uses TypeScript and styled-components with server-side rendering already implemented. 
+An opinionated Next.js starter template with Redux Toolkit, TypeScript and styled-components (including SSR) by default.
 
 ## Installation
 
-Install all dependencies by running `yarn` in the root directory.
+```
+git clone https://github.com/benja/nextjs-redux project-name
+cd project-name
+yarn
+yarn dev
+```
 
-To start the project run `yarn dev`.
+Your project will now be running on `localhost:3000`
 
-## Set up
-To set up your environment files change `.env.local.example` to `.env.local` in the root directory.
+### Environment variables 
+To set up your environment variables change `.env.local.example` to `.env.local`
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
