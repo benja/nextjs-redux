@@ -1,4 +1,4 @@
-# Foobar
+# NextJS & Redux Toolkit
 
 This is a boilerplate to get you up and running with NextJS and Redux quickly. It uses TypeScript and styled-components with server-side rendering already implemented. 
 
