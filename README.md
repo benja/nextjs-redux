@@ -8,6 +8,9 @@ Install all dependencies by running `yarn` in the root directory.
 
 To start the project run `yarn dev`.
 
+## Set up
+To set up your environment files change `.env.local.example` to `.env.local` in the root directory.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
