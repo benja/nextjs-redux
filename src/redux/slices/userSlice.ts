@@ -1,9 +1,14 @@
 import { createSlice, Draft, PayloadAction } from '@reduxjs/toolkit';
 
+interface UserState {
+  id: number,
+  username: string,
+}
+
 const initialState = {
   id: 1,
   username: 'benja',
-} as const;
+} as UserState;
 
 export const userSlice = createSlice({
   name: 'user',
